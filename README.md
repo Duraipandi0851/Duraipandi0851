@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Durai%20Pandi%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SPM%20Design%20Engineer%20%7C%20CSWP%20Certified%20%7C%20Fabrication%20%26%20Structural%20Design&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Durai%20Pandi%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SPM%20Design%20Engineer%20%7C%20CSWP%20Certified&descAlignY=62&descSize=16)
 
 <div align="center">
 
